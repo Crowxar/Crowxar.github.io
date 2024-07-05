@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! I'm Crowxar!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,3 +13,7 @@ My main project right now that I am working on is called my ["Personal Toolkit R
 I have other projects I plan on starting in the future, but for now we're just going to work this.
 
 Feel free to reach out to me via Discord - link is on the left. I'm chronically online and love to talk. This website is a clone of the academicpages template, they do some great work and I am looking forward to personalizing and participating in this community!
+
+
+
+<img src='images/under-construction-barrier-icon.png' style="display: block; margin-left: auto; margin-right: auto;">

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Crowxar - Software Developer"
+title                    : "Python Software Developer"
 title_separator          : "-"
 name                     : &name "Crowxar"
 description              : &description "personal description"
